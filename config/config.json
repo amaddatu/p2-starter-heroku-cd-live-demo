@@ -1,4 +1,11 @@
 {
+  "f-local":{
+    "username": "root",
+    "password": "root",
+    "host": "localhost",
+    "database": "exampledb",
+    "dialect": "mysql"
+  },
   "development": {
     "username": "root",
     "password": null,
